@@ -1,4 +1,4 @@
-# coffeeFortune
+# coffeeFortune ☕
 * This application was made using "Firebase ML Kit" developed by google.
 * Those who want to develop and edit can download and use it here.
 * The basic working logic of the application is to learn the equivalent of any object perceived in the picture in coffee fortune.
