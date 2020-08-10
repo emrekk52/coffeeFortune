@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="400dp"
+    android:transitionName="popup_card"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center_vertical"
+    android:background="@drawable/custom_popup_gradient_list"
+    android:id="@+id/popupLayout"
+    >
+
+    <ImageView
+        android:layout_margin="10dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:src="@drawable/coffee"/>
+
+    <EditText
+        android:hint="Name"
+        android:textColorHint="@color/colorGray"
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="17dp"
+        android:fontFamily="sans-serif"
+        android:padding="10dp"
+        android:textColor="@color/colorAccent"
+        android:textStyle="bold"
+        android:background="@drawable/view_background"
+        />
+
+    <EditText
+        android:hint="Surname"
+        android:textColorHint="@color/colorGray"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif"
+        android:id="@+id/surname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="17dp"
+        android:background="@drawable/view_background"
+        android:textColor="@color/colorAccent"
+        android:padding="10dp"
+        />
+
+    <Button
+        android:transitionName="popup_button"
+        android:elevation="8dp"
+        android:id="@+id/button_ok"
+        android:enabled="false"
+        android:background="@drawable/button_disabled_background"
+        android:textColor="@color/colorAccent"
+        android:layout_marginTop="10dp"
+        android:fontFamily="sans-serif-condensed"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="ok"
+        />
+
+
+</LinearLayout>

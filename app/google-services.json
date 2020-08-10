@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "980050853790",
+    "firebase_url": "https://coffee-fortune-71c44.firebaseio.com",
+    "project_id": "coffee-fortune-71c44",
+    "storage_bucket": "coffee-fortune-71c44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980050853790:android:3cda64111e4ead6e29208f",
+        "android_client_info": {
+          "package_name": "com.coffee.fortune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980050853790-cqqh9jo8d68nlddtk4en5of6mk1u4oj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coffee.fortune",
+            "certificate_hash": "519007a4b61c6da57b7ec7b6e43afc13a7279964"
+          }
+        },
+        {
+          "client_id": "980050853790-ipfc1sm9l7168vbnpvm72djamklnj06l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi4rV3oqKbY_1TA2ZXvm9WNk2DtP6m5ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980050853790-ipfc1sm9l7168vbnpvm72djamklnj06l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980050853790:android:b14f9216650954ff29208f",
+        "android_client_info": {
+          "package_name": "com.coffee.trying"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980050853790-8m9tnmqpisep6ihfsnmok480t0v525oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coffee.trying",
+            "certificate_hash": "519007a4b61c6da57b7ec7b6e43afc13a7279964"
+          }
+        },
+        {
+          "client_id": "980050853790-ipfc1sm9l7168vbnpvm72djamklnj06l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi4rV3oqKbY_1TA2ZXvm9WNk2DtP6m5ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980050853790-ipfc1sm9l7168vbnpvm72djamklnj06l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980050853790:android:32e1aced7e5c3e1029208f",
+        "android_client_info": {
+          "package_name": "com.emrek.kahvefali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980050853790-rn88e533lihqad4ru6bovrhcm9el2j9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emrek.kahvefali",
+            "certificate_hash": "519007a4b61c6da57b7ec7b6e43afc13a7279964"
+          }
+        },
+        {
+          "client_id": "980050853790-ipfc1sm9l7168vbnpvm72djamklnj06l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi4rV3oqKbY_1TA2ZXvm9WNk2DtP6m5ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980050853790-ipfc1sm9l7168vbnpvm72djamklnj06l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
